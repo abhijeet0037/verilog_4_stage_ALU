@@ -36,35 +36,6 @@ ALU.
 
 ---
 
-## 📁 Project Structure
-
-verilog_4_stage_ALU/
-│
-├── verilog_ALU/
-│   │
-│   ├── RTL Design/
-│   │   └── ALU_pipe_line.v
-│   │
-│   ├── Test Benches/
-│   │   ├── alu_pl_tb1.v
-│   │   └── alu_tb2_pl.v
-│   │
-│   ├── Images/
-│   │   ├── ALU_datapath.png
-│   │   └── Block_diagram.png
-│   │
-│   ├── Waveforms/
-│   │   ├── pipe1.vcd
-│   │   ├── pipeline.vcd
-│   │   ├── waveform_tb1.png
-│   │   └── waveform_tb2.png
-│   │
-│   └── Project Report/
-│
-└── README.md
-
----
-
 ## 🏗️ Architecture
 
 The ALU is organized as a **4-stage pipeline**:
